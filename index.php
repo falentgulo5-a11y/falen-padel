@@ -82,8 +82,8 @@
                 </div>
                 
                 <div class="flex items-center space-x-4">
-                    <a href="login.php" class="px-6 py-2 bg-white text-purple-600 rounded-full font-semibold hover:bg-gray-100 transition duration-300">Login</a>
-                    <a href="daftar.php" class="px-6 py-2 bg-green-500 text-white rounded-full font-semibold hover:bg-green-600 transition duration-300 pulse-glow">Daftar</a>
+                    <a href="login.php" class="px-6 py-2 bg-white text-purple-600 rounded-full font-semibold hover:bg-gray-100 transition duration-300">Masuk</a>
+                    <a href="daftar.php" class="px-6 py-2 bg-green-500 text-white rounded-full font-semibold hover:bg-green-600 transition duration-300 pulse-glow">Daftar Akun</a>
                 </div>
             </div>
         </nav>
